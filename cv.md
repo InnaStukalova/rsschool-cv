@@ -1,5 +1,5 @@
 
-# Inna Stukalova
+# Ina Stukalava
 ## My Contact Info
 * Location: Brest, Belarus
 * Phone: +375 29 225 05 23
