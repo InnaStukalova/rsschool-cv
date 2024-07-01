@@ -76,16 +76,16 @@ pre {
 .my-gh {
     text-transform: uppercase;
     padding-top: 2rem;
-    padding-left: 2rem;
+    /* padding-left: 2rem;
     padding-right: 3rem;
-    padding-bottom: 2rem;
+    padding-bottom: 2rem; */
 }
 
-.year {
+/* .year {
     margin: auto;
-}
+} */
 
-footer {
+/* footer {
     width: 200%;
     
-}
+} */
