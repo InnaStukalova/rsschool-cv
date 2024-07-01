@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://avatanplus.com/files/resources/original/56d87d5b5f4861533da9acfe.png);
+    background-size: auto;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+h1 {
+    color: #400C9A;
+    text-transform: uppercase;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
+
+h2, h3 {
+    color: #400C9A;
+    text-transform: uppercase;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
+
+ul {
+    color: #886FB3;
+    text-transform: lowercase;
+    /* padding-top: 3rem; */
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
+
+p  {color: #886FB3;
+    text-transform: lowercase;
+    /* padding-top: 3rem; */
+    padding-left: 1rem;
+    padding-right: 3rem;
+    /* padding-bottom: 1rem; */
+}
+
+.container {
+    margin: 30px auto;
+    width: 1024px;
+    display: flex;
+    background-color: white;
+    box-shadow: 20px 20px 40px -1px rgba(0, 0, 0, 0.5   );
+}
+
+.column {
+    margin: auto;
+    width: 50%;
+}
+
+.twocolumn {
+    border-bottom: 2px solid;
+    padding-bottom: 0.2rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+pre {
+    margin-top: 10px;
+    background-color: #C5C2E1;
+    font-size: 12px;
+}
+
+.my-gh {
+    text-transform: uppercase;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+}
+
+.year {
+    margin: auto;
+}
+
+footer {
+    width: 200%;
+    
+}
