@@ -43,7 +43,7 @@ p  {color: #886FB3;
     /* padding-top: 3rem; */
     padding-left: 1rem;
     padding-right: 3rem;
-    /* padding-bottom: 1rem; */
+    padding-bottom: 1rem;
 }
 
 .container {
@@ -57,11 +57,12 @@ p  {color: #886FB3;
 .column {
     margin: auto;
     width: 50%;
+    padding-top: 1rem;
 }
 
 .twocolumn {
-    border-bottom: 2px solid;
-    padding-bottom: 0.2rem;
+    /* border-bottom: 2px solid; */
+    padding-bottom: 0.5rem;
     padding-top: 1rem;
     padding-left: 1rem;
 }
