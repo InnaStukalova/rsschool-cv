@@ -1,1 +1,1 @@
-https://InnaStukalova.github.io/rsschool-cv/cv
+https://InnaStukalova.github.io/rsschool-cv/
