@@ -67,7 +67,7 @@ p  {color: #886FB3;
 .twocolumn {
     padding-bottom: 0.5rem;
     width: 50%;
-    padding-top: 2rem;
+    padding-top: 1rem;
 
 }
 
@@ -111,8 +111,12 @@ pre {
 .myphoto {
     height: 10rem;
     width: 10rem;
-    margin-left: 10rem;
+    margin-left: 11rem;
     border-radius: 100px; 
     box-shadow: 0 0 7px black;
     
+}
+
+.aboutme {
+    padding-left: 1rem;
 }
