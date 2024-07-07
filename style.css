@@ -17,7 +17,7 @@ body {
 h1 {
     color: #400C9A;
     text-transform: uppercase;
-    padding-top: 3rem;
+    padding-top: 1rem;
     padding-left: 3rem;
     /* padding-right: 3rem; */
     padding-bottom: 1rem;
@@ -114,6 +114,7 @@ pre {
     margin-left: 11rem;
     border-radius: 100px; 
     box-shadow: 0 0 7px black;
+    margin-top: 3rem;
     
 }
 
